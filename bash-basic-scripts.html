@@ -1,1 +1,8 @@
-test
+# Let’s resize all the image files exists in different folders of a folder images :
+
+* For example : let’s resize all images to 320 max dimension :
+```
+for file in test/images/*; do
+  mogrify "$file/*.jpg[!320x320>]"
+done
+```
