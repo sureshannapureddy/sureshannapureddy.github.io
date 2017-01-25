@@ -7,4 +7,4 @@ Follow [Tutorial to learn basics of bash script](http://sureshannapureddy.github
 
 
 # Winner of GE-Predix hackathon in Paris
-Follow [hackathon] https://devpost.com/software/general-healing
+Follow [GE-Predic hackathon](https://devpost.com/software/general-healing)
