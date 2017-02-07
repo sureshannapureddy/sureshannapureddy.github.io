@@ -4,4 +4,6 @@
 
 Follow [Tutorial to learn basics of bash script](http://sureshannapureddy.github.io/bash-basic-scripts.html)
 
-## Big "Data" Science
+## IBM Watson Bluemix Visual API
+
+Follow [Tutorial on IBM Watson Bluemix Visual API](http://sureshannapureddy.github.io/bash-basic-scripts.html)
