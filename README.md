@@ -5,7 +5,7 @@ Follow [Tutorial to learn basics of bash script](http://sureshannapureddy.github
 
 # IBM Watson Bluemix Visual API
 
-Follow [Tutorial on IBM Watson Bluemix Visual API](http://sureshannapureddy.github.io/IBM_Watson_API.html)
+Follow [Tutorial on IBM Watson Bluemix Visual API](https://github.com/sureshannapureddy/Image-Classification-IBMWatson-Bluemix-Visual-API)
 
 # Won GE-Predix Hackathon in Paris
 
